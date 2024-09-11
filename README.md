@@ -37,7 +37,7 @@
 
   <td align="center">
       <a href="https://github.com/ujiseon">
-        <img src="" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/115134755?v=4" width="100px;" alt=""/>
         <br />
         <sub>
           <b>Yu Ji Seon</b>
