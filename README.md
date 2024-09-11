@@ -28,11 +28,11 @@
         <img src="" width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Lee Young Jik</b>
+          <b>Lee Min Sik</b>
         </sub>
       </a>
       <br />
-      <a href="https://github.com/lee-young-jik" title="코드">🏠</a>
+      <a href="https://github.com/minsikE" title="코드">🏠</a>
     </td>
 
   <td align="center">
