@@ -36,7 +36,7 @@
     </td>
 
   <td align="center">
-      <a href="https://github.com/lee-young-jik">
+      <a href="https://github.com/ujiseon">
         <img src="" width="100px;" alt=""/>
         <br />
         <sub>
@@ -44,7 +44,7 @@
         </sub>
       </a>
       <br />
-      <a href="https://github.com/lee-young-jik" title="코드">🏠</a>
+      <a href="****" title="코드">🏠</a>
     </td>
 
 
