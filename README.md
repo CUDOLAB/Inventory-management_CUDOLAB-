@@ -40,7 +40,7 @@
         <img src="" width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Lee Young Jik</b>
+          <b>Yu Ji Seon</b>
         </sub>
       </a>
       <br />
