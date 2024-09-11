@@ -25,7 +25,7 @@
     </td>
 <td align="center">
       <a href="https://github.com/lee-young-jik">
-        <img src="" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/96456956?u=0fa072022433d942b2525f524444f318c4150b81&v=4" width="100px;" alt=""/>
         <br />
         <sub>
           <b>Lee Min Sik</b>
