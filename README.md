@@ -1,6 +1,7 @@
 
 <img src="https://github.com/user-attachments/assets/d3795b16-c75b-4a65-8206-00702180cb51" alt="배너 이미지" style="width:100%; height:150px;"/>
-<br>
+
+
 <hr>
 
 # 출출박스_Inventory-management PROJECT
