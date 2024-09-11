@@ -4,7 +4,7 @@
 
 <hr>
 
-# 출출박스_Inventory-management PROJECT
+# 출출박스_Inventory management PROJECT
 
 ## 프로젝트 기간 : 2024.09~
 
