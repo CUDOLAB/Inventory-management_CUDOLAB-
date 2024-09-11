@@ -34,7 +34,6 @@
       <br />
       <a href="https://github.com/lee-young-jik" title="코드">🏠</a>
     </td>
-  </tr>
 
   <td align="center">
       <a href="https://github.com/lee-young-jik">
@@ -47,7 +46,7 @@
       <br />
       <a href="https://github.com/lee-young-jik" title="코드">🏠</a>
     </td>
-  </tr>
+
 
 
   <td align="center">
@@ -61,8 +60,7 @@
       <br />
       <a href="https://github.com/lee-young-jik" title="코드">🏠</a>
     </td>
-  </tr>
-
+  
   <td align="center">
       <a href="https://github.com/lee-young-jik">
         <img src="https://avatars.githubusercontent.com/u/91588673?v=4" width="100px;" alt=""/>
