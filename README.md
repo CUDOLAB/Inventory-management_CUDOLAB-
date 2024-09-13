@@ -62,15 +62,15 @@
     </td>
   
   <td align="center">
-      <a href="https://github.com/lee-young-jik">
-        <img src="" width="100px;" alt=""/>
+      <a href>
+        <img src="https://avatars.githubusercontent.com/u/181173823?s=400&u=d0538e7e870a2b8447bb3576d25927a9848c8672&v=4" width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Lee Young Jik</b>
+          <b>Hyojeong Kim</b>
         </sub>
       </a>
       <br />
-      <a href="https://github.com/lee-young-jik" title="코드">🏠</a>
+      <a>🏠</a>
     </td>
   </tr>
 </table>
