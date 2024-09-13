@@ -50,15 +50,15 @@
 
 
   <td align="center">
-      <a href="https://github.com/lee-young-jik">
-        <img src="" width="100px;" alt=""/>
+      <a href="/">
+        <img src="https://avatars.githubusercontent.com/u/78204482?s=400&u=675a233ca1e47b5cabdc6c5399364d770625073a&v=4" width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Lee Young Jik</b>
+          <b>Jeong In</b>
         </sub>
       </a>
       <br />
-      <a href="https://github.com/lee-young-jik" title="코드">🏠</a>
+      <a href="/" title="코드">🏠</a>
     </td>
   
   <td align="center">
