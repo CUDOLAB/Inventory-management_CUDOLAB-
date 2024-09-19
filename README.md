@@ -72,5 +72,16 @@
       <br />
       <a>🏠</a>
     </td>
+  <td align="center">
+      <a href>
+        <img src="https://avatars.githubusercontent.com/u/56309257?u=95ac15364f3f606ac0233d22018af345620e92bc&v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>Jang Suek joo</b>
+        </sub>
+      </a>
+      <br />
+      <a>🏠</a>
+    </td>
   </tr>
 </table>
